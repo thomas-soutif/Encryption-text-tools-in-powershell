@@ -1,0 +1,1 @@
+Powershell.exe -File "./__decrypt.ps1"
